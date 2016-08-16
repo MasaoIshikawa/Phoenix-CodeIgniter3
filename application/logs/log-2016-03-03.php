@@ -1,0 +1,24 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-03-03 13:50:24 --> 404 Page Not Found --> wp-admin
+ERROR - 2016-03-03 14:00:16 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:00:19 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:00:19 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:00:27 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:01:20 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:01:20 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:01:26 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:08:43 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:16:24 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:16:24 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:16:33 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:16:58 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:17:21 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:17:21 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:17:28 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:18:07 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:18:07 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:19:54 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:20:09 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:20:09 --> 404 Page Not Found --> css
+ERROR - 2016-03-03 14:20:27 --> 404 Page Not Found --> css

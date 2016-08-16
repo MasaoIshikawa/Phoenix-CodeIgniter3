@@ -1,0 +1,130 @@
+[30-Jun-2015 11:53:16 America/Chicago] PHP Warning:  require(application/config/constants.php): failed to open stream: No such file or directory in /home/wsddev2/public_html/dev/phoenix/system/core/CodeIgniter.php on line 64
+[30-Jun-2015 11:53:16 America/Chicago] PHP Warning:  require(application/config/constants.php): failed to open stream: No such file or directory in /home/wsddev2/public_html/dev/phoenix/system/core/CodeIgniter.php on line 64
+[30-Jun-2015 11:53:16 America/Chicago] PHP Fatal error:  require(): Failed opening required 'application/config/constants.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wsddev2/public_html/dev/phoenix/system/core/CodeIgniter.php on line 64
+[01-Aug-2015 03:27:52 America/Chicago] PHP Fatal error:  Call to a member function get_request_token() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 329
+[01-Aug-2015 03:28:08 America/Chicago] PHP Fatal error:  Call to a member function get_request_token() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 329
+[01-Aug-2015 03:31:26 America/Chicago] PHP Fatal error:  Call to a member function get_request_token() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 329
+[01-Aug-2015 10:17:54 America/Chicago] CSRF state token does not match one provided.
+[01-Aug-2015 10:17:59 America/Chicago] CSRF state token does not match one provided.
+[01-Aug-2015 10:18:02 America/Chicago] CSRF state token does not match one provided.
+[03-Aug-2015 03:28:11 America/Chicago] PHP Fatal error:  Call to undefined function getSettings() in /home/wsddev2/public_html/dev/phoenix/application/controllers/signin.php on line 11
+[03-Aug-2015 03:28:53 America/Chicago] PHP Fatal error:  Call to undefined function getSettings() in /home/wsddev2/public_html/dev/phoenix/application/controllers/signin.php on line 11
+[03-Aug-2015 03:42:03 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/contact_support.php on line 107
+[03-Aug-2015 03:42:18 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/contact_support.php on line 107
+[03-Aug-2015 08:00:26 America/Chicago] PHP Fatal error:  Call to undefined method LinkedIn::setResponseFormat() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 354
+[03-Aug-2015 08:02:07 America/Chicago] PHP Fatal error:  Call to undefined method LinkedIn::setResponseFormat() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 354
+[03-Aug-2015 08:02:09 America/Chicago] PHP Fatal error:  Call to undefined method LinkedIn::setResponseFormat() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 354
+[03-Aug-2015 08:02:18 America/Chicago] PHP Fatal error:  Undefined class constant '_RESPONSE_JSON' in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 354
+[03-Aug-2015 08:04:45 America/Chicago] PHP Fatal error:  Undefined class constant '_RESPONSE_JSON' in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 354
+[03-Aug-2015 08:05:12 America/Chicago] PHP Fatal error:  Call to undefined method LinkedIn::setResponseFormat() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 354
+[03-Aug-2015 08:05:58 America/Chicago] PHP Fatal error:  Call to undefined method LinkedIn::setResponseFormat() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 354
+[03-Aug-2015 08:30:59 America/Chicago] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 425
+[03-Aug-2015 08:32:30 America/Chicago] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 425
+[03-Aug-2015 08:32:33 America/Chicago] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 425
+[03-Aug-2015 08:32:35 America/Chicago] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 425
+[03-Aug-2015 08:37:25 America/Chicago] PHP Parse error:  syntax error, unexpected ''first-name'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 430
+[03-Aug-2015 08:39:05 America/Chicago] PHP Parse error:  syntax error, unexpected ''first-name'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 430
+[03-Aug-2015 09:36:28 America/Chicago] PHP Fatal error:  Call to a member function create() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 466
+[03-Aug-2015 09:37:48 America/Chicago] PHP Fatal error:  Call to a member function create() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 466
+[03-Aug-2015 09:37:50 America/Chicago] PHP Fatal error:  Call to a member function create() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 466
+[03-Aug-2015 09:37:53 America/Chicago] PHP Fatal error:  Call to undefined method TwitterOAuth::create() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 466
+[03-Aug-2015 09:46:58 America/Chicago] PHP Fatal error:  Call to undefined method TwitterOAuth::create() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 466
+[03-Aug-2015 09:47:00 America/Chicago] PHP Fatal error:  Call to undefined method TwitterOAuth::create() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 473
+[03-Aug-2015 09:47:03 America/Chicago] PHP Fatal error:  Call to undefined method TwitterOAuth::create() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 473
+[03-Aug-2015 09:47:06 America/Chicago] PHP Fatal error:  Call to undefined method TwitterOAuth::create() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 473
+[03-Aug-2015 09:47:21 America/Chicago] PHP Fatal error:  Call to undefined method TwitterOAuth::create() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 473
+[03-Aug-2015 09:53:55 America/Chicago] PHP Fatal error:  Call to undefined method Home::twitteroauth() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 473
+[03-Aug-2015 09:53:58 America/Chicago] PHP Fatal error:  Call to undefined method Home::twitteroauth() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 473
+[03-Aug-2015 09:54:00 America/Chicago] PHP Fatal error:  Call to undefined method Home::twitteroauth() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 473
+[03-Aug-2015 09:54:04 America/Chicago] PHP Fatal error:  Call to undefined method Home::twitteroauth() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 473
+[03-Aug-2015 09:55:31 America/Chicago] PHP Fatal error:  Call to undefined method Home::twitteroauth() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 473
+[03-Aug-2015 09:55:34 America/Chicago] PHP Fatal error:  Call to undefined method Home::twitteroauth() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 473
+[03-Aug-2015 10:02:57 America/Chicago] PHP Fatal error:  Call to undefined method Home::twitteroauth() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 473
+[03-Aug-2015 10:03:05 America/Chicago] PHP Fatal error:  Call to undefined method Home::twitteroauth() in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 473
+[03-Aug-2015 12:42:41 America/Chicago] PHP Fatal error:  Call to undefined method Twitter_oauth::oAuthRequest() in /home/wsddev2/public_html/dev/phoenix/application/libraries/twitter_oauth.php on line 29
+[04-Aug-2015 14:09:59 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/wsddev2/public_html/dev/phoenix/application/controllers/home.php on line 419
+[05-Aug-2015 06:07:06 America/Chicago] PHP Fatal error:  Call to undefined method contacts_support_model::Delete_Contacts() in /home/wsddev2/public_html/dev/phoenix/application/controllers/admin/support.php on line 213
+[05-Aug-2015 06:08:03 America/Chicago] PHP Fatal error:  Call to undefined method contacts_support_model::Delete_Contacts() in /home/wsddev2/public_html/dev/phoenix/application/controllers/admin/support.php on line 213
+[05-Aug-2015 06:08:07 America/Chicago] PHP Fatal error:  Call to undefined method contacts_support_model::Delete_Contacts() in /home/wsddev2/public_html/dev/phoenix/application/controllers/admin/support.php on line 213
+[31-Aug-2015 08:48:41 America/Chicago] PHP Fatal error:  Call to undefined method Products_Model::getProductsBySubId() in /home/wsddev2/public_html/dev/phoenix/application/controllers/products.php on line 56
+[31-Aug-2015 08:49:01 America/Chicago] PHP Fatal error:  Call to undefined method Products_Model::getProductsBySubId() in /home/wsddev2/public_html/dev/phoenix/application/controllers/products.php on line 56
+[31-Aug-2015 08:49:12 America/Chicago] PHP Fatal error:  Call to undefined method Products_Model::getProductsBySubId() in /home/wsddev2/public_html/dev/phoenix/application/controllers/products.php on line 56
+[06-Jan-2016 12:31:17 America/Chicago] PHP Fatal error:  Call to undefined method Products_Model::update_family() in /home/wsddev2/public_html/dev/phoenix/application/controllers/admin/products.php on line 255
+[06-Jan-2016 12:31:34 America/Chicago] PHP Fatal error:  Call to undefined method Products_Model::update_family() in /home/wsddev2/public_html/dev/phoenix/application/controllers/admin/products.php on line 255
+[21-Jan-2016 05:23:23 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 252
+[21-Jan-2016 06:27:12 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/views/home/myaccount/order_history/datafeed.php on line 47
+[21-Jan-2016 08:20:46 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php:44
+Stack trace:
+#0 /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php(44): SimpleXMLElement->__construct('<?xml ver\xFE0q=-\v...')
+#1 [internal function]: Order_history->order_add_feed()
+#2 /home/wsddev2/public_html/dev/phoenix/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wsddev2/public_html/dev/phoenix/index.php(203): require_once('/home/wsddev2/p...')
+#4 {main}
+  thrown in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 44
+[21-Jan-2016 11:46:42 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php:44
+Stack trace:
+#0 /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php(44): SimpleXMLElement->__construct('<<<XM\x15t\xFD\xF8\xFA3?voH...')
+#1 [internal function]: Order_history->order_add_feed()
+#2 /home/wsddev2/public_html/dev/phoenix/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wsddev2/public_html/dev/phoenix/index.php(203): require_once('/home/wsddev2/p...')
+#4 {main}
+  thrown in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 44
+[21-Jan-2016 11:49:49 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php:45
+Stack trace:
+#0 /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php(45): SimpleXMLElement->__construct('<<<XM\x15t\xFD\xF8\xFA3?voH...')
+#1 [internal function]: Order_history->order_add_feed()
+#2 /home/wsddev2/public_html/dev/phoenix/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wsddev2/public_html/dev/phoenix/index.php(203): require_once('/home/wsddev2/p...')
+#4 {main}
+  thrown in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 45
+[21-Jan-2016 11:54:06 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php:45
+Stack trace:
+#0 /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php(45): SimpleXMLElement->__construct('<<<XM\x15t\xFD\xF8\xFA3?voH...')
+#1 [internal function]: Order_history->order_add_feed()
+#2 /home/wsddev2/public_html/dev/phoenix/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wsddev2/public_html/dev/phoenix/index.php(203): require_once('/home/wsddev2/p...')
+#4 {main}
+  thrown in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 45
+[21-Jan-2016 11:54:14 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php:45
+Stack trace:
+#0 /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php(45): SimpleXMLElement->__construct('<<<XM\x15t\xFD\xF8\xFA3?voH...')
+#1 [internal function]: Order_history->order_add_feed()
+#2 /home/wsddev2/public_html/dev/phoenix/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wsddev2/public_html/dev/phoenix/index.php(203): require_once('/home/wsddev2/p...')
+#4 {main}
+  thrown in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 45
+[21-Jan-2016 11:59:16 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php:45
+Stack trace:
+#0 /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php(45): SimpleXMLElement->__construct('<<<XM\x15t\xFD\xF8\xFA3?voH...', 0, true)
+#1 [internal function]: Order_history->order_add_feed()
+#2 /home/wsddev2/public_html/dev/phoenix/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wsddev2/public_html/dev/phoenix/index.php(203): require_once('/home/wsddev2/p...')
+#4 {main}
+  thrown in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 45
+[21-Jan-2016 12:21:14 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php:45
+Stack trace:
+#0 /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php(45): SimpleXMLElement->__construct('<<<XM\x15t\xFD\xF8\xFA3?voH...', 0, true)
+#1 [internal function]: Order_history->order_add_feed()
+#2 /home/wsddev2/public_html/dev/phoenix/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wsddev2/public_html/dev/phoenix/index.php(203): require_once('/home/wsddev2/p...')
+#4 {main}
+  thrown in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 45
+[21-Jan-2016 12:21:25 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php:44
+Stack trace:
+#0 /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php(44): SimpleXMLElement->__construct('<<<XM\x15t\xFD\xF8\xFA3?voH...')
+#1 [internal function]: Order_history->order_add_feed()
+#2 /home/wsddev2/public_html/dev/phoenix/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/wsddev2/public_html/dev/phoenix/index.php(203): require_once('/home/wsddev2/p...')
+#4 {main}
+  thrown in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 44
+[22-Jan-2016 14:13:12 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 62
+[22-Jan-2016 14:33:49 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 119
+[22-Jan-2016 14:36:50 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 112
+[22-Jan-2016 14:37:39 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 112
+[22-Jan-2016 14:58:11 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 112
+[25-Jan-2016 07:30:06 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 112
+[25-Jan-2016 07:40:55 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 112
+[25-Jan-2016 08:18:21 America/Chicago] PHP Fatal error:  Cannot use object of type XMLParser as array in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 100
+[25-Jan-2016 08:18:25 America/Chicago] PHP Fatal error:  Cannot use object of type XMLParser as array in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 100
+[25-Jan-2016 08:18:29 America/Chicago] PHP Fatal error:  Cannot use object of type XMLParser as array in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 100
+[25-Jan-2016 13:01:16 America/Chicago] PHP Fatal error:  Cannot access empty property in /home/wsddev2/public_html/dev/phoenix/application/controllers/myaccount/order_history.php on line 24

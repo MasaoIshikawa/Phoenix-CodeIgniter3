@@ -1,0 +1,22 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-12-22 11:09:58 --> 404 Page Not Found --> uploads
+ERROR - 2015-12-22 11:09:58 --> 404 Page Not Found --> js
+ERROR - 2015-12-22 11:09:59 --> 404 Page Not Found --> js
+ERROR - 2015-12-22 11:09:59 --> 404 Page Not Found --> uploads
+ERROR - 2015-12-22 11:11:17 --> 404 Page Not Found --> js
+ERROR - 2015-12-22 11:11:18 --> 404 Page Not Found --> js
+ERROR - 2015-12-22 11:12:36 --> 404 Page Not Found --> js
+ERROR - 2015-12-22 11:12:36 --> 404 Page Not Found --> js
+ERROR - 2015-12-22 11:14:23 --> 404 Page Not Found --> js
+ERROR - 2015-12-22 11:14:24 --> 404 Page Not Found --> js
+ERROR - 2015-12-22 11:14:46 --> 404 Page Not Found --> js
+ERROR - 2015-12-22 11:14:46 --> 404 Page Not Found --> js
+ERROR - 2015-12-22 11:21:05 --> 404 Page Not Found --> js
+ERROR - 2015-12-22 11:21:05 --> 404 Page Not Found --> js
+ERROR - 2015-12-22 11:22:08 --> 404 Page Not Found --> js
+ERROR - 2015-12-22 11:22:08 --> 404 Page Not Found --> js
+ERROR - 2015-12-22 11:22:29 --> 404 Page Not Found --> js
+ERROR - 2015-12-22 11:22:29 --> 404 Page Not Found --> js
+ERROR - 2015-12-22 12:34:27 --> 404 Page Not Found --> js
+ERROR - 2015-12-22 12:34:29 --> 404 Page Not Found --> js

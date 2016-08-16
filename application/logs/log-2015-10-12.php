@@ -1,0 +1,94 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-10-12 10:45:45 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 10:46:17 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 10:50:22 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 10:50:22 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:15:52 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:15:52 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:17:23 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:17:24 --> 404 Page Not Found --> uploads
+ERROR - 2015-10-12 11:17:25 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:17:25 --> 404 Page Not Found --> uploads
+ERROR - 2015-10-12 11:18:33 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:18:36 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:18:36 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:19:56 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:19:56 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:21:16 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:21:18 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:21:18 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:21:25 --> The filetype you are attempting to upload is not allowed.
+ERROR - 2015-10-12 11:21:46 --> The filetype you are attempting to upload is not allowed.
+ERROR - 2015-10-12 11:23:33 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:23:33 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:23:40 --> The filetype you are attempting to upload is not allowed.
+ERROR - 2015-10-12 11:24:28 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:24:28 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:25:02 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:25:02 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:25:10 --> The filetype you are attempting to upload is not allowed.
+ERROR - 2015-10-12 11:25:45 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:25:45 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:25:53 --> The filetype you are attempting to upload is not allowed.
+ERROR - 2015-10-12 11:26:36 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:26:36 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 11:26:44 --> The filetype you are attempting to upload is not allowed.
+ERROR - 2015-10-12 11:30:42 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:30:42 --> 404 Page Not Found --> uploads
+ERROR - 2015-10-12 11:30:42 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:30:42 --> 404 Page Not Found --> uploads
+ERROR - 2015-10-12 11:30:51 --> Severity: Notice  --> Undefined variable: confirmation D:\wamp\www\phoenix\application\views\home\myaccount\tabs.php 7
+ERROR - 2015-10-12 11:30:51 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:30:51 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:30:58 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:30:59 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:31:25 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:31:25 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:33:45 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:33:45 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:33:50 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:33:51 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:33:53 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:33:54 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:33:56 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:33:57 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:34:00 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:34:08 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 11:34:09 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:06:18 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:16:26 --> 404 Page Not Found --> uploads
+ERROR - 2015-10-12 12:16:26 --> 404 Page Not Found --> uploads
+ERROR - 2015-10-12 12:16:26 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 12:16:26 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 12:16:34 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 12:16:34 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 12:16:40 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 12:16:40 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 12:17:07 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 12:17:07 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 12:17:13 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 12:17:13 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 12:17:24 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 12:17:24 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 12:17:32 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:17:32 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:17:52 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:17:52 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:18:13 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:18:13 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:18:22 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:18:22 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:18:28 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:18:38 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:18:39 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:19:08 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 12:19:08 --> 404 Page Not Found --> css
+ERROR - 2015-10-12 12:19:22 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:19:22 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:20:22 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:20:44 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:27:25 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:27:25 --> 404 Page Not Found --> uploads
+ERROR - 2015-10-12 12:27:25 --> 404 Page Not Found --> js
+ERROR - 2015-10-12 12:27:25 --> 404 Page Not Found --> uploads
